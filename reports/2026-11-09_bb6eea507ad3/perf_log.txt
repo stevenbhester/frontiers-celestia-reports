@@ -1,0 +1,6 @@
+2026-11-09T15:07:27  spike 60 ms (+1 more, worst 59 ms)  fps 72  process 48.0 ms  physics 22.6 ms  draws 3797  shader compiles 42  nodes 1389  objects 7867  mem 0 MB  map hollows  baddies 5  critters 16  ground 0
+2026-11-09T15:07:28  spike 59 ms (+1 more, worst 61 ms)  fps 72  process 48.0 ms  physics 22.6 ms  draws 3796  shader compiles 42  nodes 1389  objects 7867  mem 0 MB  map hollows  baddies 5  critters 16  ground 0
+2026-11-09T15:07:28  spike 63 ms  fps 63  process 52.8 ms  physics 24.6 ms  draws 3801  shader compiles 42  nodes 1389  objects 7867  mem 0 MB  map hollows  baddies 5  critters 16  ground 0
+2026-11-09T15:07:31  spike 135 ms (+1 more, worst 57 ms)  loading  fps 82  process 29.7 ms  physics 22.8 ms  draws 15180  shader compiles 43  nodes 1378  objects 7605  mem 0 MB  map meadow  baddies 0  critters 6  ground 0
+2026-11-09T15:07:34  spike 136 ms  loading  fps 79  process 24.0 ms  physics 29.1 ms  draws 3971  shader compiles 44  nodes 1379  objects 7886  mem 0 MB  map hollows  baddies 5  critters 23  ground 0
+2026-11-09T15:07:38  spike 139 ms (+1 more, worst 67 ms)  loading  fps 74  process 25.3 ms  physics 0.2 ms  draws 15181  shader compiles 45  nodes 1378  objects 7655  mem 0 MB  map meadow  baddies 0  critters 6  ground 0
