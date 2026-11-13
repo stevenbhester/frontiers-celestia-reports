@@ -1,0 +1,48 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+Metal 4.0 - Forward <user> - Using Device #0: Apple - Apple A18 Pro GPU (Apple9)
+
+ERROR: Mouse is not supported by this display server.
+   at: mouse_get_position (servers/display/display_server.cpp:536)
+[boot] loading
+[boot] the main scene is loaded; warming 8 shaders
+[boot] warming shader 1 of 8: world_chart_ground.gdshader
+[boot] warming shader 2 of 8: world_chart_live.gdshader
+[boot] warming shader 3 of 8: tear: torn
+[boot] warming shader 4 of 8: tear: dark
+[boot] warming shader 5 of 8: party trip
+[boot] warming shader 6 of 8: sleepy edge
+[boot] warming shader 7 of 8: studio doorway
+[boot] warming shader 8 of 8: map shadow
+[boot] handing over to the main scene
+[main] ready: start
+[main] ready: add_child(_menu)
+[main] ready: add_child(_inventory_screen)
+[main] ready: add_child(_befriend_game)
+[main] ready: add_child(_sleepy_edge)
+[main] ready: add_child(_touch)
+[main] ready: add_child(_research_menu)
+[main] ready: add_child(_world_map)
+[main] ready: add_child(_party)
+[main] ready: add_child(_pause_menu)
+[main] ready: add_child(_night)
+[main] ready: add_child(_music)
+[main] ready: add_child(EndgameDirector.new(self))
+[main] ready: entering architect_office
+[main] ready: map entered
+ERROR: Error calling deferred method: 'GDScript::_let_scroll': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'GDScript::_let_scroll': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'GDScript::_let_scroll': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+[main] frame 1
+[main] frame 2
+[main] frame 3
+[base] ready: the map's own setup
+[base] ready: the farm
+[base] ready: the layers
+[base] ready: signs up
+[base] ready: the map's own setup
+[base] ready: the farm
+[base] ready: the layers
+[base] ready: signs up
