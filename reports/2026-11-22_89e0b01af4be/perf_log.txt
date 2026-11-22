@@ -1,0 +1,127 @@
+ce  baddies 0  critters 0  ground 0
+2026-11-13T03:07:37  spike 142 ms  fps 120  process 7.4 ms  physics 0.1 ms  draws 420  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:07:38  spike 142 ms  fps 86  process 7.5 ms  physics 0.1 ms  draws 420  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:07:39  spike 134 ms  fps 71  process 7.0 ms  physics 2.6 ms  draws 420  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:07:43  spike 133 ms  fps 120  process 7.2 ms  physics 0.1 ms  draws 420  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:07:49  spike 129 ms  fps 120  process 7.2 ms  physics 0.3 ms  draws 420  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:07:52  spike 138 ms (+1 more, worst 122 ms)  fps 106  process 7.1 ms  physics 0.1 ms  draws 420  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:08:04  spike 140 ms  fps 120  process 7.5 ms  physics 0.1 ms  draws 420  shader compiles 20  nodes 799  objects 5434  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:08:13  spike 142 ms  fps 120  process 8.3 ms  physics 1.0 ms  draws 381  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:08:25  spike 132 ms  fps 120  process 10.4 ms  physics 0.2 ms  draws 381  shader compiles 20  nodes 800  objects 5438  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:08:33  spike 89 ms  loading  fps 120  process 9.8 ms  physics 1.5 ms  draws 5944  shader compiles 26  nodes 952  objects 6058  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:27:28  spike 141 ms  fps 112  process 23.5 ms  physics 0.1 ms  draws 1436  shader compiles 28  nodes 1043  objects 6280  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:27:47  spike 62 ms (+1 more, worst 124 ms)  fps 119  process 10.2 ms  physics 0.2 ms  draws 1415  shader compiles 28  nodes 1226  objects 6815  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:27:59  spike 143 ms  fps 120  process 10.0 ms  physics 0.2 ms  draws 387  shader compiles 29  nodes 982  objects 6033  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:28:15  spike 73 ms  loading  fps 118  process 16.7 ms  physics 0.4 ms  draws 5939  shader compiles 30  nodes 1134  objects 6629  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:29:37  spike 149 ms  fps 116  process 15.1 ms  physics 0.1 ms  draws 1252  shader compiles 30  nodes 1244  objects 6910  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:33:20  spike 142 ms (+1 more, worst 67 ms)  fps 64  process 17.5 ms  physics 0.1 ms  draws 1946  shader compiles 30  nodes 1411  objects 7590  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:34:03  spike 142 ms (+1 more, worst 84 ms)  fps 120  process 10.3 ms  physics 1.2 ms  draws 378  shader compiles 31  nodes 1187  objects 6875  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:34:14  spike 134 ms  fps 120  process 9.8 ms  physics 1.1 ms  draws 378  shader compiles 31  nodes 1187  objects 6875  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:34:20  spike 131 ms  fps 120  process 10.1 ms  physics 2.3 ms  draws 378  shader compiles 31  nodes 1187  objects 6875  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:35:01  spike 140 ms  fps 85  process 7.4 ms  physics 0.1 ms  draws 421  shader compiles 31  nodes 1186  objects 6871  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:35:10  spike 117 ms  fps 118  process 7.9 ms  physics 0.1 ms  draws 345  shader compiles 31  nodes 1022  objects 6415  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:35:11  spike 69 ms (+1 more, worst 58 ms)  fps 111  process 7.1 ms  physics 0.3 ms  draws 346  shader compiles 31  nodes 1022  objects 6415  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:35:40  spike 59 ms  fps 119  process 9.6 ms  physics 0.1 ms  draws 345  shader compiles 31  nodes 1026  objects 6440  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:35:54  spike 67 ms  loading  fps 120  process 6.0 ms  physics 0.3 ms  draws 5609  shader compiles 32  nodes 1177  objects 7031  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:36:33  spike 148 ms  fps 120  process 9.4 ms  physics 0.2 ms  draws 325  shader compiles 33  nodes 1025  objects 6423  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:37:08  spike 150 ms  fps 120  process 10.1 ms  physics 0.2 ms  draws 326  shader compiles 33  nodes 1189  objects 6881  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:37:12  spike 134 ms  fps 120  process 9.9 ms  physics 0.2 ms  draws 362  shader compiles 33  nodes 1189  objects 6881  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:37:46  spike 136 ms  fps 120  process 7.1 ms  physics 0.1 ms  draws 363  shader compiles 33  nodes 1189  objects 6881  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:37:48  spike 133 ms  fps 100  process 17.9 ms  physics 0.2 ms  draws 362  shader compiles 33  nodes 1189  objects 6881  mem 0 MB  map architect_office  baddies 0  critters 0  ground 0
+2026-11-13T03:37:58  spike 67 ms  loading  fps 118  process 18.6 ms  physics 0.6 ms  draws 5645  shader compiles 34  nodes 1339  objects 7472  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:39:06  spike 146 ms  fps 115  process 31.7 ms  physics 0.2 ms  draws 507  shader compiles 35  nodes 1194  objects 6922  mem 0 MB  map cottage  baddies 0  critters 0  ground 0
+2026-11-13T03:39:24  spike 147 ms (+2 more, worst 101 ms)  fps 120  process 8.2 ms  physics 0.0 ms  draws 511  shader compiles 35  nodes 1194  objects 6940  mem 0 MB  map cottage  baddies 0  critters 0  ground 0
+2026-11-13T03:39:26  spike 138 ms (+2 more, worst 108 ms)  fps 58  process 79.2 ms  physics 0.0 ms  draws 508  shader compiles 35  nodes 1195  objects 7006  mem 0 MB  map cottage  baddies 0  critters 0  ground 0
+2026-11-13T03:39:36  spike 66 ms  loading  fps 120  process 6.1 ms  physics 0.3 ms  draws 5346  shader compiles 36  nodes 1309  objects 7609  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:40:34  spike 145 ms  fps 101  process 15.3 ms  physics 0.1 ms  draws 700  shader compiles 36  nodes 1381  objects 7713  mem 0 MB  map base  baddies 0  critters 28  ground 0
+2026-11-13T03:40:47  spike 58 ms (+1 more, worst 50 ms)  fps 118  process 9.9 ms  physics 0.2 ms  draws 521  shader compiles 36  nodes 1383  objects 7718  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T03:54:33  spike 144 ms  fps 100  process 12.9 ms  physics 0.2 ms  draws 707  shader compiles 36  nodes 1443  objects 7922  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T03:54:36  spike 58 ms (+1 more, worst 103 ms)  fps 119  process 13.9 ms  physics 0.6 ms  draws 966  shader compiles 36  nodes 1444  objects 7927  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T03:55:06  spike 134 ms  fps 114  process 11.3 ms  physics 0.2 ms  draws 860  shader compiles 36  nodes 1511  objects 8073  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T03:55:09  spike 137 ms (+1 more, worst 53 ms)  fps 111  process 16.6 ms  physics 0.2 ms  draws 860  shader compiles 36  nodes 1511  objects 8073  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T03:55:14  spike 56 ms (+1 more, worst 57 ms)  fps 114  process 10.9 ms  physics 0.2 ms  draws 792  shader compiles 36  nodes 1512  objects 8078  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T03:56:12  spike 136 ms  fps 106  process 12.0 ms  physics 0.2 ms  draws 1110  shader compiles 36  nodes 1513  objects 8078  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T03:57:29  spike 137 ms (+1 more, worst 72 ms)  fps 120  process 8.9 ms  physics 0.0 ms  draws 1186  shader compiles 36  nodes 1520  objects 8103  mem 0 MB  map base  baddies 0  critters 29  ground 0
+2026-11-13T04:12:01  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-13T04:12:01  spike 150 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3396  mem 0 MB  map haven  baddies 0  critters 1  ground 0
+2026-11-13T04:12:01  spike 138 ms (+1 more, worst 50 ms)  loading  fps 63  process 184.6 ms  physics 0.0 ms  draws 3363  shader compiles 23  nodes 813  objects 5426  mem 0 MB  map haven  baddies 0  critters 1  ground 0
+2026-11-13T04:12:13  spike 54 ms (+1 more, worst 50 ms)  fps 119  process 49.2 ms  physics 1.2 ms  draws 601  shader compiles 25  nodes 871  objects 5675  mem 0 MB  map haven  baddies 0  critters 1  ground 0
+2026-11-13T04:12:51  spike 83 ms (+1 more, worst 79 ms)  loading  fps 109  process 18.9 ms  physics 0.2 ms  draws 5508  shader compiles 30  nodes 1020  objects 6422  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-13T08:07:24  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-13T08:07:24  spike 150 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3394  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-13T08:07:25  spike 137 ms (+1 more, worst 50 ms)  loading  fps 11  process 2.6 ms  physics 0.0 ms  draws 7013  shader compiles 23  nodes 900  objects 5937  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-13T08:07:40  spike 64 ms (+1 more, worst 55 ms)  fps 113  process 11.1 ms  physics 0.1 ms  draws 1078  shader compiles 27  nodes 987  objects 6194  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-13T08:09:37  spike 135 ms  fps 118  process 10.6 ms  physics 0.1 ms  draws 841  shader compiles 27  nodes 986  objects 6191  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-13T08:09:37  spike 145 ms (+1 more, worst 50 ms)  fps 94  process 41.2 ms  physics 0.3 ms  draws 833  shader compiles 27  nodes 986  objects 6191  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-13T08:10:42  spike 146 ms  fps 117  process 11.2 ms  physics 0.1 ms  draws 843  shader compiles 27  nodes 986  objects 6198  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-16T16:36:10  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-16T16:36:10  spike 150 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3395  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-16T16:36:11  spike 141 ms (+1 more, worst 50 ms)  loading  fps 1  process 31.5 ms  physics 10.0 ms  draws 6884  shader compiles 23  nodes 900  objects 5937  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-17T19:32:25  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-17T19:32:25  spike 150 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3457  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-17T19:32:26  spike 144 ms  loading  fps 1  process 31.3 ms  physics 9.0 ms  draws 7040  shader compiles 23  nodes 902  objects 5999  mem 0 MB  map base  baddies 0  critters 30  ground 0
+2026-11-17T19:32:35  spike 125 ms (+1 more, worst 51 ms)  fps 114  process 24.8 ms  physics 6.5 ms  draws 7085  shader compiles 30  nodes 917  objects 5995  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T19:33:06  spike 50 ms  fps 81  process 14.3 ms  physics 0.0 ms  draws 4509  shader compiles 30  nodes 941  objects 6235  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T19:33:18  spike 63 ms (+5 more, worst 67 ms)  fps 75  process 17.2 ms  physics 0.0 ms  draws 4369  shader compiles 30  nodes 940  objects 6693  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T19:36:25  spike 134 ms  fps 113  process 10.8 ms  physics 0.0 ms  draws 4378  shader compiles 30  nodes 942  objects 6785  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T19:36:26  spike 127 ms (+1 more, worst 73 ms)  fps 28  process 26.3 ms  physics 0.0 ms  draws 4361  shader compiles 30  nodes 941  objects 6781  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T20:52:42  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-17T20:52:42  spike 145 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3080  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T20:52:43  spike 141 ms  loading  fps 1  process 24.3 ms  physics 7.3 ms  draws 8348  shader compiles 23  nodes 937  objects 5624  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T20:53:08  spike 149 ms (+1 more, worst 58 ms)  fps 119  process 9.0 ms  physics 0.4 ms  draws 7261  shader compiles 30  nodes 919  objects 5800  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T20:53:15  spike 132 ms  fps 120  process 8.9 ms  physics 0.0 ms  draws 4392  shader compiles 30  nodes 934  objects 5857  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T20:53:59  spike 145 ms  fps 119  process 11.4 ms  physics 0.0 ms  draws 4428  shader compiles 30  nodes 934  objects 5861  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T20:55:35  spike 50 ms  fps 86  process 12.7 ms  physics 0.0 ms  draws 4553  shader compiles 30  nodes 938  objects 6397  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T20:56:26  spike 136 ms  fps 69  process 15.2 ms  physics 0.0 ms  draws 4552  shader compiles 30  nodes 939  objects 6401  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T23:57:35  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-17T23:57:35  spike 150 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3078  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T23:57:36  spike 134 ms  loading  fps 1  process 22.4 ms  physics 7.7 ms  draws 8344  shader compiles 23  nodes 937  objects 5622  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T23:57:48  spike 108 ms (+1 more, worst 58 ms)  fps 120  process 4.8 ms  physics 0.2 ms  draws 7075  shader compiles 30  nodes 917  objects 5707  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T23:58:20  spike 141 ms  fps 65  process 20.5 ms  physics 0.0 ms  draws 4984  shader compiles 30  nodes 939  objects 5947  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T23:59:18  spike 129 ms (+3 more, worst 145 ms)  fps 69  process 21.1 ms  physics 0.0 ms  draws 4984  shader compiles 30  nodes 939  objects 5947  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-17T23:59:36  spike 136 ms  fps 72  process 14.8 ms  physics 0.0 ms  draws 4966  shader compiles 30  nodes 940  objects 5996  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:01:18  spike 143 ms (+3 more, worst 147 ms)  fps 84  process 12.0 ms  physics 0.0 ms  draws 4782  shader compiles 30  nodes 939  objects 6019  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:02:15  spike 149 ms  fps 100  process 14.3 ms  physics 0.0 ms  draws 4674  shader compiles 30  nodes 939  objects 6116  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:03:10  spike 129 ms  fps 70  process 13.7 ms  physics 0.0 ms  draws 4350  shader compiles 30  nodes 940  objects 6151  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:05:16  spike 128 ms  fps 91  process 13.5 ms  physics 0.0 ms  draws 4773  shader compiles 30  nodes 941  objects 6213  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:06:01  spike 140 ms  fps 92  process 12.1 ms  physics 0.0 ms  draws 4830  shader compiles 30  nodes 939  objects 6205  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:07:01  spike 150 ms  fps 56  process 21.8 ms  physics 0.0 ms  draws 5299  shader compiles 30  nodes 939  objects 6228  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:08:28  spike 132 ms (+1 more, worst 53 ms)  fps 106  process 23.9 ms  physics 0.1 ms  draws 4114  shader compiles 30  nodes 993  objects 6363  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:08:49  spike 58 ms (+1 more, worst 53 ms)  fps 118  process 10.9 ms  physics 0.2 ms  draws 3939  shader compiles 30  nodes 994  objects 6393  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:09:48  spike 140 ms  fps 112  process 17.6 ms  physics 0.3 ms  draws 3944  shader compiles 32  nodes 993  objects 6411  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:10:52  spike 137 ms  fps 120  process 8.7 ms  physics 0.1 ms  draws 3987  shader compiles 32  nodes 993  objects 6429  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:10:53  spike 63 ms  fps 23  process 17.1 ms  physics 0.3 ms  draws 3985  shader compiles 32  nodes 994  objects 6434  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:27:32  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-18T00:27:32  spike 150 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3110  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:27:33  spike 141 ms  loading  fps 1  process 22.8 ms  physics 7.6 ms  draws 8887  shader compiles 23  nodes 937  objects 5654  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:27:35  spike 119 ms  fps 115  process 25.0 ms  physics 5.5 ms  draws 7738  shader compiles 30  nodes 917  objects 5723  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:27:37  spike 99 ms  fps 120  process 8.9 ms  physics 0.0 ms  draws 7014  shader compiles 30  nodes 939  objects 5780  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:28:41  spike 150 ms (+1 more, worst 142 ms)  fps 100  process 10.4 ms  physics 0.0 ms  draws 5183  shader compiles 30  nodes 940  objects 6004  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:28:42  spike 141 ms  fps 32  process 26.9 ms  physics 0.1 ms  draws 5184  shader compiles 30  nodes 940  objects 6004  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T00:30:58  spike 60 ms  fps 98  process 12.4 ms  physics 0.3 ms  draws 4707  shader compiles 32  nodes 995  objects 6775  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:32:25  spike 142 ms  fps 97  process 12.0 ms  physics 0.3 ms  draws 4724  shader compiles 32  nodes 998  objects 6182  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:33:21  spike 65 ms (+1 more, worst 123 ms)  fps 112  process 12.3 ms  physics 0.0 ms  draws 4714  shader compiles 32  nodes 1043  objects 6457  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:34:19  spike 138 ms (+1 more, worst 67 ms)  fps 87  process 13.5 ms  physics 0.5 ms  draws 4782  shader compiles 32  nodes 1043  objects 6466  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T00:34:29  spike 58 ms (+1 more, worst 143 ms)  fps 119  process 11.8 ms  physics 0.2 ms  draws 4859  shader compiles 32  nodes 1093  objects 6622  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:20:03  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-18T11:20:03  spike 149 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3109  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:20:04  spike 134 ms  loading  fps 1  process 2.6 ms  physics 0.0 ms  draws 8983  shader compiles 23  nodes 939  objects 5676  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:20:08  spike 108 ms  fps 120  process 7.6 ms  physics 0.5 ms  draws 7745  shader compiles 30  nodes 917  objects 5729  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T11:20:16  start  FrontiersCelestia  iOS  Apple A18 Pro GPU (Apple9)  vsync on  120 Hz  max fps 0
+2026-11-18T11:20:16  spike 145 ms  loading  fps 1  process 0.0 ms  physics 0.0 ms  draws 0  shader compiles 0  nodes 7  objects 3053  mem 0 MB  map base  baddies 0  critters 0  ground 0
+2026-11-18T11:20:16  spike 136 ms  loading  fps 7  process 2.3 ms  physics 0.0 ms  draws 9008  shader compiles 23  nodes 937  objects 5641  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T11:20:21  spike 104 ms (+1 more, worst 67 ms)  fps 117  process 22.7 ms  physics 0.1 ms  draws 7009  shader compiles 25  nodes 939  objects 5750  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T11:21:24  spike 140 ms (+1 more, worst 146 ms)  fps 97  process 17.9 ms  physics 0.0 ms  draws 5100  shader compiles 25  nodes 939  objects 5989  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T11:23:51  spike 58 ms (+2 more, worst 138 ms)  fps 107  process 12.1 ms  physics 1.4 ms  draws 6568  shader compiles 25  nodes 992  objects 6670  mem 0 MB  map base  baddies 0  critters 5  ground 0
+2026-11-18T11:23:56  spike 65 ms  fps 106  process 12.4 ms  physics 0.4 ms  draws 4802  shader compiles 25  nodes 996  objects 6713  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:25:45  spike 141 ms  fps 103  process 10.8 ms  physics 0.2 ms  draws 4725  shader compiles 27  nodes 998  objects 6125  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:25:53  spike 58 ms (+1 more, worst 120 ms)  fps 119  process 11.3 ms  physics 0.3 ms  draws 4695  shader compiles 27  nodes 998  objects 6174  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:27:03  spike 69 ms  fps 103  process 12.3 ms  physics 0.0 ms  draws 4786  shader compiles 27  nodes 1043  objects 6416  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:28:48  spike 134 ms (+1 more, worst 80 ms)  fps 112  process 12.4 ms  physics 0.0 ms  draws 4955  shader compiles 27  nodes 1106  objects 6659  mem 0 MB  map base  baddies 0  critters 7  ground 0
+2026-11-18T11:29:23  spike 83 ms  loading  fps 120  process 4.3 ms  physics 0.2 ms  draws 7408  shader compiles 29  nodes 1075  objects 6705  mem 0 MB  map base  baddies 0  critters 8  ground 0
+2026-11-18T11:29:48  spike 55 ms  fps 72  process 16.5 ms  physics 0.5 ms  draws 4743  shader compiles 29  nodes 1126  objects 6802  mem 0 MB  map base  baddies 0  critters 8  ground 0
+2026-11-18T11:30:01  spike 128 ms  loading  fps 117  process 9.9 ms  physics 0.2 ms  draws 1990  shader compiles 34  nodes 1076  objects 6600  mem 0 MB  map meadow  baddies 0  critters 3  ground 0
+2026-11-18T11:30:06  spike 58 ms  fps 120  process 4.6 ms  physics 0.2 ms  draws 944  shader compiles 35  nodes 1187  objects 6908  mem 0 MB  map meadow  baddies 0  critters 3  ground 0
+2026-11-18T11:31:10  spike 141 ms  fps 117  process 22.4 ms  physics 0.1 ms  draws 283  shader compiles 35  nodes 1187  objects 6921  mem 0 MB  map meadow  baddies 0  critters 3  ground 0
+2026-11-18T11:31:15  spike 56 ms  fps 120  process 8.6 ms  physics 0.3 ms  draws 263  shader compiles 35  nodes 1193  objects 6942  mem 0 MB  map meadow  baddies 0  critters 3  ground 0
+2026-11-18T11:33:10  spike 139 ms  fps 120  process 4.9 ms  physics 0.2 ms  draws 278  shader compiles 35  nodes 1186  objects 6896  mem 0 MB  map meadow  baddies 0  critters 3  ground 0
